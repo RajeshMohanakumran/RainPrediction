@@ -105,8 +105,3 @@ The model can accurately predict whether rainfall will occur based on input feat
 Weather prediction is traditionally dependent on expert meteorologists. This project demonstrates how **Machine Learning** can augment or partially automate such predictions using historical data and smart algorithms.
 
 ---
-
-## 📎 License
-
-This project is open-sourced under the [MIT License](LICENSE).
-
